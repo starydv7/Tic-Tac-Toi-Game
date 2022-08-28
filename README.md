@@ -14,7 +14,7 @@ You can see the website [HERE](https://lively-palmier-8c5425.netlify.app/)
 <hr/>
 This website help the users to play a Simple game and they reduce heigher sterss. Use can impove their knowledge logically. 
 
-[chaitu786](https://github.com/chaitu786)
+[Pawan Yadav](https://github.com/starydv7)
 
 ### Technologies
 <hr />
