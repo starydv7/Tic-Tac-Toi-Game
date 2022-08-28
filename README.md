@@ -26,5 +26,5 @@ This website help the users to play a Simple game and they reduce heigher sterss
 ### Features
 <hr/>
 
--It is a knowledge Game 
+-It is a Game 
 
